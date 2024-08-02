@@ -27,7 +27,7 @@ author:
   bio              : "Passionate Data Scientist with 4+ yrs of experience"
   location         : "Lyon, France"
   employer         : # "Red Brick University"
-  uri              : "www.medium.com/@mystmon"
+  url              : "www.medium.com/@mystmon"
   email            : "rampallishyam2@gmail.com" 
 
   # Academic websites
@@ -72,7 +72,8 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # URL
-  medium           : "www.medium.com/@mystmon"
+  medium           : # Username
+  url              : "www.medium.com/@mystmon"
 
 
 # Site Settings

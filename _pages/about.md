@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello! If you are, it means you have shown interest in my profile. Thanks for stopping by!"
+title: "Hello! Thanks for stopping by!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,7 +9,7 @@ redirect_from:
 
 
 
-A data-driven personal website
+
 ======
 kqhsdiufhjkqhdsuifhjqshdifhsqd
 

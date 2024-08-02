@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Using Computer Simulations for Quantifying Impact of Infrastructure Changes for Autonomous Vehicles"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'Interest in autonomous vehicles (AVs) has geared up globally in recent years with a focus on safety and low fuel consumption. Several industries and research organizations are collaborating on the development of AVs. Apart from this, government transportation agencies around the world are involved in bringing AVs on roads by performing various physical and virtual tests. An essential aspect of deploying AVs is increasing passengers’ safety. It is highly advisable to validate the AVs with the current road infrastructure and propose efficient AV-friendly road infrastructure, including several lanes, lane widths, and bus bay designs. This chapter considers the bus bay design structure specific to Singapore for validation and proposing new bus bay designs. Two new bus bay designs are proposed and compared 76with existing bus bay designs. The comparison is performed based on queue length, bus arrival, and bus exit time. We have implemented the simulation using an integrated simulator developed in-house by combining a virtual test drive (VTD) and a robot operating system (ROS). We deployed real traffic data from the Ang Mo Kio (AMK) district area in Singapore for this purpose. The results show that the queue length developed in the proposed bus bay designs are shorter than the existing bus bay design, especially in high traffic density scenarios.'
+date: 2020
+venue: 'Augmented Intelligence Toward Smart Vehicular Applications'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'https://www.taylorfrancis.com/chapters/edit/10.1201/9781003006817-7/using-computer-simulations-quantifying-impact-infrastructure-changes-autonomous-vehicles-priyanka-mehta-vyas-pranjal-abraham-anuj-rampalli-shyam-sundar-muhammad-usman-shashwat-dauwels-justin'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.

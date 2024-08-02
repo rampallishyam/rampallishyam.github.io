@@ -27,7 +27,7 @@ author:
   bio              : "Passionate Data Scientist with 4+ yrs of experience"
   location         : "Lyon, France"
   employer         : # "Red Brick University"
-  uri              : "www.medium.com/@mystmon"
+  uri              : #"www.medium.com/@mystmon"
   email            : "rampallishyam2@gmail.com" 
 
   # Academic websites
@@ -59,7 +59,7 @@ author:
   lastfm           : # Username
   linkedin         : "shyam-sundar-rampalli-852314144"
   mastodon         : # URL
-  medium           : #""
+  medium           : mystmon
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username

@@ -16,10 +16,9 @@ The primary goal of the License Plate and Face Anonymiser project is to provide 
 
 ## Technologies Used
 
-- ![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg) OpenCV
+- OpenCV
 - Dlib
-- Python
-- ![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) Python
+- PyTorch
 - Yolo
 
 ## Example Output
@@ -34,10 +33,9 @@ This project applies computer vision to identify a vehicle based on its type and
 
 ## Technologies Used
 
-- ![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg) OpenCV
+- OpenCV
 - ByteTrack
-- Python
-- ![PyTorch](https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg) Python
+- PyTorch
 - Yolo
 
 Entire repo here: [GitHub repository](https://github.com/rampallishyam/License-plate-and-face-anonymiser).
@@ -49,8 +47,7 @@ With an accuracy of 0.956 and an F1-score of 0.943, this KNN classifer classifie
 
 ## Technologies Used
 
-- ![sklearn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) sklearn
-- Python
+- scikit-learn
 
 Entire repo here: [GitHub repository](https://github.com/rampallishyam/KNN-on-cancer-diagnosis-data/tree/main).
 

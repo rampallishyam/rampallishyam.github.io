@@ -20,9 +20,11 @@ The License Plate and Face Anonymiser project leverages advanced computer vision
 
 ## Technologies Used
 
-- ![OpenCV](https://via.placeholder.com/50) OpenCV
-- ![Dlib](https://via.placeholder.com/50) Dlib
-- ![Python](https://via.placeholder.com/50) Python
+- ![OpenCV](https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg) OpenCV
+- ![Dlib](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FDlib&psig=AOvVaw2eInSQWmKGfeKjPxWas988&ust=1722754572701000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDzz4Wf2IcDFQAAAAAdAAAAABAQ) Dlib
+- ![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
+- ![PyTorch](https://via.placeholder.com/50) Python
+- ![yolo](https://via.placeholder.com/50) Python
 
 ## Project Goals
 

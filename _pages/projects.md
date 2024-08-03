@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-# License Plate and Face Anonymiser ![Project Logo](https://via.placeholder.com/100)
+# 1. License Plate and Face Anonymiser ![Project Logo](/images/carnival-mask-textured-shape-svgrepo-com.svg)
 
 This project is designed to automatically detect and anonymize license plates and faces in images and videos. Anonymization is crucial for protecting personal privacy in various scenarios, such as surveillance footage, media sharing, and data handling.
 

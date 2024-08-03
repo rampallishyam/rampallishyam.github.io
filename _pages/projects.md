@@ -58,6 +58,15 @@ Entire repo here: [GitHub repository](https://github.com/rampallishyam/KNN-on-ca
 Entire repo here: [GitHub repository](https://github.com/rampallishyam/KNearestNeighbour-Classification-on-diabetes-data).
 
 
-
 Other Projects
+
+# 1. Minesweeper with Tkinter 
+
+ Created minesweeper with tkinter. This project is intended to be a learning exercise for object oriented programming.
+
+## Technologies Used
+
+- tkinter
+
+Entire repo here: [GitHub repository](https://github.com/rampallishyam/Minesweeper-with-Tkinter).
 

@@ -47,6 +47,16 @@ With an accuracy of 0.956 and an F1-score of 0.943, this KNN classifer classifie
 
 Entire repo here: [GitHub repository](https://github.com/rampallishyam/KNN-on-cancer-diagnosis-data/tree/main).
 
+# 4. KNN classifier for diabetes data 
+
+ This KNN classifer classifies whether a patient has diabetes or not based on the number of pregnancies, glucose, blood pressure, skin thickness, insulin, BMI and diabetes pedigree function and age. 
+
+## Technologies Used
+
+- scikit-learn
+
+Entire repo here: [GitHub repository](https://github.com/rampallishyam/KNearestNeighbour-Classification-on-diabetes-data).
+
 
 
 Other Projects

@@ -28,7 +28,6 @@ Sample video here: [output_videos](https://github.com/rampallishyam/License-plat
 
 Entire repo here: [GitHub repository](https://github.com/rampallishyam/License-plate-and-face-anonymiser).
 
-=============
 # 2. Traffic Detection and Travel Time Estimation 
 
 This project applies computer vision to identify a vehicle based on its type and then tracks whether it passed a certain location on a road stretch and following that outputs the number of vehicles that passed a cross section of the road by vehicle time and also estimate the travel time between two cross sections.
@@ -42,7 +41,8 @@ This project applies computer vision to identify a vehicle based on its type and
 - Yolo
 
 Entire repo here: [GitHub repository](https://github.com/rampallishyam/License-plate-and-face-anonymiser).
-========
+
+
 # 3. KNN classifier for cancer diagnosis data 
 
 With an accuracy of 0.956 and an F1-score of 0.943, this KNN classifer classifies cancer diagnosis data whether it is malignant or benignant based on parameters such as radius_mean, perimeter_se, are_se, etc. 
@@ -54,7 +54,7 @@ With an accuracy of 0.956 and an F1-score of 0.943, this KNN classifer classifie
 
 Entire repo here: [GitHub repository](https://github.com/rampallishyam/KNN-on-cancer-diagnosis-data/tree/main).
 
-=========
+
 
 Other Projects
 

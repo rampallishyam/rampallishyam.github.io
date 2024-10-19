@@ -9,14 +9,15 @@ redirect_from:
 
 
 
-Getting started
+Welcome to my Data Science Portfolio!
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail.
-1. Fork by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see  showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I'm Shyam Sundar Rampalli, a passionate data scientist with over four years of experience in machine learning, transportation, and technical consulting. My journey has been driven by a curiosity to uncover insights from complex data and turn those into innovative solutions. I specialize in building and training machine learning models, conducting detailed data analyses, and developing simulations to tackle real-world challenges.
+
+With a strong foundation in Python and hands-on experience in tools like PyTorch, Keras, and sci-kit learn, I focus on creating data-driven strategies that drive efficiency and accuracy. My work spans diverse areas, from developing traffic prediction algorithms to implementing cutting-edge models for vehicle detection and autonomous systems. My goal is to leverage my expertise in data science to contribute to meaningful projects that shape the future of industries and communities.
+
+Whether you're a company looking to harness the power of data or tackle a specific problem, I'm here to collaborate and make data-driven decisions that lead to impactful results.
+
+
 
 Site-wide configuration
 ======

@@ -21,4 +21,4 @@ Whether you're a company looking to harness the power of data or tackle a specif
 
 Some of my writings can be found here:
 ======
-![Medium Profile]{https://medium.com/@mystmon}
+[Medium Profile](https://medium.com/@mystmon)
